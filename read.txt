@@ -1,0 +1,2 @@
+1) npm i (package json yuklenir)
+2) gulp 
